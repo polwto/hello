@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>belle bot</title>
+</head>
+<body>
+    <header class="cabeçalho">
+        <img class="min-logo" src="./SVG/Vector.svg" alt="">
+        <nav class="icons">
+            <a class="conteudo-de-cima" href="./caty.html">comunidade francisco</a>
+            <a class="conteudo-de-cima">tutoria</a>
+            <a class="conteudo-de-cima">open source</a>
+            <a class="conteudo-de-cima">comandos</a>
+        </nav>
+    </header>
+
+    <main id="conteudo">
+        <section class="cabeçalho-meio">
+            <div class="meio">
+                <h1 class="belle">Balle Bot</h1>
+                <h2 class="belle-meio">Deixe a sua comunidade segura de um jeito fácil</h2>
+                <button class="button-meio">me adicione</button>
+            </div>
+            <img class="logo" src="./SVG/Group 4.svg" alt="imagem da belle bot">
+        </section>
+        <section class="texto-baixo">
+            <h3 class="baixo">O que ela faz por você</h3>
+            <p class="texto-min-baixo">1. Cria um sistema de verificação capcha  para novos membros garantirem que não são robôs</p>
+            <p class="texto-min-baixo">2. Possui um sistema de banimento automático para links suspeitos que forem enviados na comunidade</p>
+            <p class="texto-min-baixo">3. Sistema de avisos e banimento manual, para pessoas administradoras utilizarem</p>
+        </section>
+    </main>
+
+    <footer id="logo-inferior">
+        <img class="imagen-inferior" src="./SVG/BALLERINI.svg" alt="">
+    </footer>
+</body>
+</html>
